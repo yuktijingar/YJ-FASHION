@@ -40,7 +40,7 @@ const Testimonial = () => {
                                 <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-pink-200 bg-gray-100" src="https://firebasestorage.googleapis.com/v0/b/yj---fashion.appspot.com/o/OTHER%20IMAGE-1.jpg?alt=media&token=322ea695-ff5a-4c03-bcfa-a0fc921fd1f2" />
                                 <p className="leading-relaxed">YJ-Fashion never disappoints! From stunning dresses to cozy sweaters, their collection caters to every occasion and season. The attention to detail in their designs is evident, and the affordable prices are just the cherry on top. Trustworthy, stylish, and always on-trend - YJ-Fashion is my fashion sanctuary</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
-                                <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Raj Makwana</h2>
+                                <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Neel Makwana</h2>
                                 <p className="text-gray-500">Customer</p>
                             </div>
                         </div>
