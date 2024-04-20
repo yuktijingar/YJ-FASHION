@@ -26,7 +26,7 @@ const Testimonial = () => {
                         {/* Testimonial 2 */}
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-pink-200 bg-gray-100" src="https://firebasestorage.googleapis.com/v0/b/yj---fashion.appspot.com/o/OTHER%20IMAGE-2.jpg?alt=media&token=175c33af-57be-43ba-9f82-6f55e4ef47cc" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-pink-200 bg-gray-100" src="https://firebasestorage.googleapis.com/v0/b/yj---fashion.appspot.com/o/PHOTO.jpg?alt=media&token=df8f313e-b4cd-4784-9bbd-34015d78c198" />
                                 <p className="leading-relaxed">YJ-Fashion is a fashionista's dream come true! With an incredible selection of chic apparel, I'm constantly inspired to revamp my wardrobe. Their intuitive website makes browsing a breeze, and the fast shipping ensures I can rock the latest trends in no time. Shopping here is a delight every time</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Yukti Jingar</h2>
