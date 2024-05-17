@@ -18,7 +18,7 @@ const Testimonial = () => {
                                 <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-pink-200 bg-gray-100" src="https://firebasestorage.googleapis.com/v0/b/yj---fashion.appspot.com/o/women%20img.jpg?alt=media&token=626fe9b6-b44a-4ce2-ac82-0082c9583746" />
                                 <p className="leading-relaxed">YJ-Fashion is my go-to destination for trendy clothes! Their extensive collection offers something for every style, and the quality is top-notch. From casual basics to statement pieces, I always find exactly what I need to elevate my wardrobe. Plus, their customer service is exceptional my shopping experience truly enjoyable</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
-                                <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Devarsh Sharma</h2>
+                                <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Priya Sharma</h2>
                                 <p className="text-gray-500">Customer</p>
                             </div>
                         </div>
