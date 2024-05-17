@@ -18,7 +18,7 @@ const AllProduct = () => {
     const dispatch = useDispatch()
 
     const [currentPage, setCurrentPage] = useState(1);
-    const productsPerPage = 12;
+    const productsPerPage = 8;
 
     const addCart = (item) => {
         dispatch(addToCart(item));
